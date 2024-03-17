@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 
-const serverUrl = "http://localhost:3000"
+const serverUrl = "https://hackhive-m6sw.onrender.com/"
 
 const Feedback = () => {
 
